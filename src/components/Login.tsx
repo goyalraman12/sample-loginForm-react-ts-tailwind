@@ -27,7 +27,7 @@ const Login = () => {
     } else {
       setEmailError("");
       setPasswordError("");
-      setSuccessMsg("Login Successful");
+      setSuccessMsg("Login Successful !");
       setEmailValue("");
       setPasswordValue("");
 
